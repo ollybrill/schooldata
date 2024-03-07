@@ -1,0 +1,27 @@
+SCHNAME,Lat,Lon
+Belmont Park School,51.55694252,0.014227418
+Big Creative Independent School,51.59401,-0.04258
+Buxton School,51.55745,0.01653
+Chingford Foundation School,51.63001378,-0.007231114
+Connaught School for Girls,51.56628916,0.004583408
+Eden Girls' School Waltham Forest,51.59400904,-0.042577512
+Forest School,51.58558,0.00932
+Frederick Bremer School,51.59449187,-0.003444264
+George Mitchell School,51.5681192,-0.013661752
+Heathcote School & Science College,51.62627694,0.01203786
+Highams Park School,51.60846558,0.002931333
+Holy Family Catholic School,51.58963937,-0.007352775
+Hornbeam Academy Special Academy,51.60105,-0.03371
+Joseph Clarke School,51.60625,0.00285
+Kelmscott School,51.57557039,-0.028375024
+Lammas School and Sixth Form,51.56588452,-0.025648578
+Lantern of Knowledge Secondary School,51.5642,-0.00956
+Leytonstone School,51.57576561,0.006789935
+Norlington School and 6th Form,51.5672887,-0.001822568
+Normanhurst School,51.63275,0.00714
+Rushcroft Foundation School,51.60464091,-0.012241444
+Walthamstow Academy,51.59949528,-0.024378806
+Walthamstow School for Girls,51.58529118,-0.013966644
+Whitefield Schools,51.59523,-0.0032
+Willowfield Humanities College,51.58587807,-0.039780129
+Eden Queens Road Station,51.5817, -0.024
