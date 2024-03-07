@@ -1,0 +1,18 @@
+,lon,lat,easting,northing,Source:,Conversion
+Walthamstow Academy,-0.024378806,51.59949528,536929,190810,https://get-information-schools.service.gov.uk/,https://stackoverflow.com/questions/36520915/converting-utms-to-lat-long-in-r
+Lammas School and Sixth Form,-0.025648578,51.56588452,536942,187070,,"wgs84 = ""+init=epsg:4326"""
+Chingford Foundation School,-0.007231114,51.63001378,538024,194236,,bng = '+proj=tmerc +lat_0=49 +lon_0=-2 +k=0.9996012717 +x_0=400000 +y_0=-100000 
+Rushcroft Foundation School,-0.012241444,51.60464091,537754,191405,,+ellps=airy +datum=OSGB36 +units=m +no_defs'
+Connaught School for Girls,0.004583408,51.56628916,539036,187172,,
+Eden Girls' School Waltham Forest,-0.042577512,51.59400904,535685,190166,,"ConvertCoordinates <- function(easting,northing) {"
+Highams Park,0.002931333,51.60846558,538793,191859,,"out = cbind(easting,northing)"
+Norlington School and 6th Form,-0.001822568,51.5672887,538589,187271,,mask = !is.na(easting)
+Frederick Bremer School,-0.003444264,51.59449187,538394,190293,,"sp <-  sp::spTransform(sp::SpatialPoints(list(easting[mask],northing[mask]),proj4string=sp::CRS(bng)),sp::CRS(wgs84))"
+George Mitchell School,-0.013661752,51.5681192,537766,187341,,"out[mask,]=sp@coords"
+Heathcote School & Science College,0.01203786,51.62627694,539369,193857,,out
+Willowfield School,-0.039780129,51.58587807,535903,189267,,}
+Leytonstone School,0.006789935,51.57576561,539160,188230,,
+Walthamstow School for Girls,-0.013966644,51.58529118,537693,189250,,
+Kelmscott School,-0.028375024,51.57557039,536724,188142,,
+Holy Family Catholic School,-0.007352775,51.58963937,538138,189746,,
+Buxton School,0.014227418,51.55694252,539733,186151,,
