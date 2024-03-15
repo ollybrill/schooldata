@@ -18,13 +18,13 @@ This includes all the non specialist schools in the borough excluding private sc
 Shows a map of the London Borough of Waltham Forest with a marker showing each secondary school.  Clicking on the marker will show the name of the school.
 
 **Cut off year**:
-Selecting a year in this list displays a circle on the map with a radius equal to the 'cut off distance' of the selected school in that year.  Children living outside of the 'cut off distance' did not get a place in the school in that year (except children offered places on other criteria, such as having a sibling at the school already).  Multiple years can be selected and cut off distances for other schools will remain until the 'Reset Map' button below the map is selected.  If the there was no cut off distance in a particular year (no child was refused a place based on distance) then no circle is shown.
+Selecting a year in this list displays a circle on the map with a radius equal to the 'cut off distance' of the selected school in that year.  Children living outside of the 'cut off distance' did not get a place in the school in that year (except children offered places on other criteria such as having a sibling at the school already).  Multiple years can be selected and cut off distances for other schools will remain until the 'Reset Map' button below the map is selected.  If there was no cut off distance in a particular year (no child was refused a place based on distance) then no circle is shown.
 
 ***Map Overlay*** -
 various overlays can be added to the map:
 
 **Nearest School**:
-The shapes outlined in blue help identify the nearest school, depending on the child's sex and home address. Find your street on the map and see which shape outlined in blue your street sits within. The marker at the centre of that shape indicates the nearest school.
+The shapes outlined in blue help identify the nearest school, depending on the child's sex and home address. Find a street on the map and see which shape outlined in blue the street sits within. The marker at the centre of that shape indicates the nearest school.
 
 **Crime**:
 The colour each area is shaded indicates the level of crime reported in that area.  The darker the colour the greater the level of crime reported.
